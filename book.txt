@@ -1,0 +1,5 @@
+For this lesson, I am expecting you to use the C++ documentation to look up the functions and
+classes you need. I will not be providing the exact syntax for each function, but I will give you
+the general idea of what you need to do.
+Trust cppreference with your life. Avoid cplusplus, geeksforgeeks is cool, but easily
+outdated so always check the date of the article and take it into account
